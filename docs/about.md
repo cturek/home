@@ -15,6 +15,8 @@ Hi! I'm Cedar. Currently, I'm a senior at Harvey Mudd College majoring in math a
 
 ## Work Experience
 
+I'm currently doing research with Professor David Harris as a Clay-Wolkin fellow. 
+
 ## Classes
 
 I've taken and tutored a lot of classes. Check out the list [here](https://cturek.github.io/home/Classes.html).
