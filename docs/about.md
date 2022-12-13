@@ -15,7 +15,7 @@ Hi! I'm Cedar. Currently, I'm a senior at Harvey Mudd College majoring in math a
 
 ## Work Experience
 
-I'm currently doing research with Professor David Harris as a Clay-Wolkin fellow. We are designing and writing a textbook for a RISC-V pipelined processor. I'm coauthoring a paper on the division and square root module (links coming soon).
+I'm currently doing research with [Professor David Harris](http://pages.hmc.edu/harris/) as a [Clay-Wolkin fellow](https://www.hmc.edu/engineering/engineering-fellowships/clay-wolkin-fellowship/). We are designing a RISC-V pipelined processor, and we are writing a textbook for teaching courses on the architecture. I'm coauthoring a paper on the division and square root module (links coming soon).
 
 I also [grade and tutor for various classes](https://cturek.github.io/home/classes.html).
 
@@ -25,7 +25,7 @@ In the past, I worked as an intern at [Volpe Pathways](https://www.volpe.dot.gov
 
 Here are some projects I've worked on.
 
-[Pet Autofeeder](https://cturek.github.io/Autofeeder.html)
+[Pet Autofeeder](https://cturek.github.io/E155-Autofeeder/)
 
 Physical Chess Puzzle (link coming soon!)
 

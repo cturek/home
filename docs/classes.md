@@ -24,4 +24,4 @@ title: Classes
 
 | Commutative Algebra | Digital Design and Computer Architecture | Abstract Algebra |
 | Linear Algebra | Differential Equations | Experimental Engineering |
-| Graph Theory | Calculus | System-on-Chip Design |
+| Graph Theory | System-on-Chip Design | Calculus |
