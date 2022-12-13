@@ -19,7 +19,7 @@ I'm currently doing research with Professor David Harris as a Clay-Wolkin fellow
 
 I also [grade and tutor for various classes](https://cturek.github.io/home/classes.html).
 
-In the past, I worked as an intern at [Volpe Pathways](https://www.volpe.dot.gov/about-us/careers/student-and-recent-graduate-opportunities), a counselor at [MathPath](https://www.mathpath.org/), and a [backgammon researcher under Professor Arthur Benjamin](https://www.hmc.edu/about/2021/01/11/art-benjamin-is-backgammon-champ/).
+In the past, I worked as an intern at [Volpe Pathways](https://www.volpe.dot.gov/about-us/careers/student-and-recent-graduate-opportunities), as a counselor at [MathPath](https://www.mathpath.org/), and as a [backgammon researcher under Professor Arthur Benjamin](https://www.hmc.edu/about/2021/01/11/art-benjamin-is-backgammon-champ/).
 
 ## Projects
 
