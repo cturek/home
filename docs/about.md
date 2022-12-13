@@ -6,7 +6,7 @@ exclude: true
 ---
 
 <div style="text-align: center">
-  <img src="./assets/img/Logo.png" alt="logo" width="200" />
+  <img src="./assets/img/logo.png" alt="logo" width="200" />
 </div>
 
 ## About Me
@@ -15,27 +15,24 @@ Hi! I'm Cedar. Currently, I'm a senior at Harvey Mudd College majoring in math a
 
 ## Work Experience
 
-I'm currently doing research with Professor David Harris as a Clay-Wolkin fellow. 
+I'm currently doing research with Professor David Harris as a Clay-Wolkin fellow. We are designing and writing a textbook for a RISC-V pipelined processor. I'm coauthoring a paper on the division and square root module (links coming soon).
 
-## Classes
+I also [grade and tutor for various classes](https://cturek.github.io/home/classes.html).
 
-I've taken and tutored a lot of classes. Check out the list [here](https://cturek.github.io/home/Classes.html).
+In the past, I worked as an intern at [Volpe Pathways](https://www.volpe.dot.gov/about-us/careers/student-and-recent-graduate-opportunities), a counselor at [MathPath](https://www.mathpath.org/), and a [backgammon researcher under Professor Arthur Benjamin](https://www.hmc.edu/about/2021/01/11/art-benjamin-is-backgammon-champ/).
 
 ## Projects
 
+Here are some projects I've worked on.
 
+[Pet Autofeeder](https://cturek.github.io/Autofeeder.html)
 
-## System Block Diagram
+Physical Chess Puzzle (link coming soon!)
 
-The high level block diagram is shown below:
+Magnet Maze (link coming soon!)
 
-<div style="text-align: center">
-  <img src="assets/schematics/highlevel.jpg" alt="highlevel" width="500" />
-</div>
+## Classes
 
-The FPGA interfaces with an LED display, a keypad, and a motor. The MCU interfaces with a liquid crystal display (LCD) and a radio-frequency identification (RFID) reader. The FPGA and MCU are connected to tie the two systems together. 
+I've taken and tutored a lot of classes. Check out the list [here](https://cturek.github.io/home/classes.html).
 
-In the figure below, the top breadboard connects the MCU (white) with the LCD and the RFID reader (floating, black). The bottom breadboard connects the FPGA (blue), the keypad, the LED display, and the motor (under the autofeeder housing).
-<div style="text-align: center">
-  <img src="assets/img/bigpicture.jpg" alt="bigpicture" width="1000" />
-</div>
+For my senior major capstones, I am writing a [math thesis](https://sites.google.com/g.hmc.edu/cturek) on differential topology and doing an engineering clinic with [Sandia National Laboratories](https://www.sandia.gov/) measuring ferroelectric permittivity of barium titanate. 
