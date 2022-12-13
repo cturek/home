@@ -1,27 +1,27 @@
 ---
 layout: page
-title: Cedar's Class List
+title: Classes
 ---
 
-I've taken some classes:
+<center> Math Classes
 
-|------| Math Classes |------|
 | Commutative Algebra | Harmonic Analysis | Galois Theory |
 | Complex Analysis | Differential Topology | Partial Differential Equations |
 | Probability | Discrete Math | Number Theory |
 | Real Analysis | Differential Equations | Linear Algebra |
 
-|------| Engineering Classes |------|
+Engineering Classes
+
 | High Power Rocketry | Microprocessor Based Systems | Systems Engineering |
 | Materials Engineering | Digital Design and Computer Engineering | Analog Ciruits |
 | Continuum Mechanics | Chemical and Thermal Processes | Experimental Engineering |
 
-|------| CS Classes |------|
+CS Classes
+
 | Algorithms | Data Structures | Predicate Set Logic |
 
-And I've tutored for some classes:
+Tutored/Graded/Proctored Classes
 
-|------| Tutored/Graded/Proctored Classes |------|
 | Commutative Algebra | Digital Design and Computer Architecture | Abstract Algebra |
 | Linear Algebra | Differential Equations | Experimental Engineering |
-| Graph Theory | Calculus | System-on-Chip Design |
+| Graph Theory | Calculus | System-on-Chip Design | </center>
