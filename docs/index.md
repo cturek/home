@@ -37,6 +37,12 @@ I've taken and graded/tutored for a lot of classes. Check out the list [here](ht
 
 For my senior major capstones, I am writing a [math thesis](https://sites.google.com/g.hmc.edu/cturek) on differential topology and doing an engineering clinic with [Sandia National Laboratories](https://www.sandia.gov/) measuring ferroelectric permittivity of barium titanate. 
 
+## Publications
+
+Contributed to the Floating-Point Chapter in *RISC-V System-on-Chip Design* by Harris, Stine, Thompson, and Harris, to be published by Elsevier, 2024.
+
+*Digit Selection for Recurrence Division and Square Root* by Harris, Stine, Nannarelli, Ercegovac, Parry, and Turek (link coming soon).
+
 ## Contact Information
 
 You can reach me at cedarturek (at) gmail (dot) com or cturek (at) g (dot) hmc (dot) edu. 
