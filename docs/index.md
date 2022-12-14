@@ -11,7 +11,7 @@ exclude: true
 
 ## About Me
 
-Hi! I'm Cedar. Currently, I'm a senior at Harvey Mudd College majoring in math and engineering.
+Hi! I'm Cedar. Currently, I'm a senior at Harvey Mudd College majoring in math and engineering. Here's my [resume](https://cturek.github.io/home/resume.html).
 
 ## Work Experience
 
