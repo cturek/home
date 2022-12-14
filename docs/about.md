@@ -33,6 +33,6 @@ Magnet Maze (link coming soon!)
 
 ## Classes
 
-I've taken and tutored a lot of classes. Check out the list [here](https://cturek.github.io/home/classes.html).
+I've taken and graded/tutored for a lot of classes. Check out the list [here](https://cturek.github.io/home/classes.html).
 
 For my senior major capstones, I am writing a [math thesis](https://sites.google.com/g.hmc.edu/cturek) on differential topology and doing an engineering clinic with [Sandia National Laboratories](https://www.sandia.gov/) measuring ferroelectric permittivity of barium titanate. 
