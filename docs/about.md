@@ -36,3 +36,7 @@ Magnet Maze (link coming soon!)
 I've taken and graded/tutored for a lot of classes. Check out the list [here](https://cturek.github.io/home/classes.html).
 
 For my senior major capstones, I am writing a [math thesis](https://sites.google.com/g.hmc.edu/cturek) on differential topology and doing an engineering clinic with [Sandia National Laboratories](https://www.sandia.gov/) measuring ferroelectric permittivity of barium titanate. 
+
+## Contact Information
+
+You can reach me at cedarturek (at) gmail (dot) com or cturek (at) g (dot) hmc (dot) edu. My cell is +1 (970) - eight four six - 0531. 
