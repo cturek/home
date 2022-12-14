@@ -39,4 +39,6 @@ For my senior major capstones, I am writing a [math thesis](https://sites.google
 
 ## Contact Information
 
-You can reach me at cedarturek (at) gmail (dot) com or cturek (at) g (dot) hmc (dot) edu. My cell is +1 (970) - eight four six - 0531. 
+You can reach me at cedarturek (at) gmail (dot) com or cturek (at) g (dot) hmc (dot) edu. 
+
+My cell is +1 (970) - eight four six - 0531. 
