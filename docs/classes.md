@@ -5,7 +5,6 @@ title: Classes
 
 This is a list of all the classes I've been involved with.
 
-
 ## Tutored/Graded/Proctored Classes
 
 | System-on-Chip Deisgn | Experimental Engineering | Graph Theory |

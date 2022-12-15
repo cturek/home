@@ -27,11 +27,11 @@ In the past, I worked as an intern at [Volpe Pathways](https://www.volpe.dot.gov
 
 Here are some projects I've worked on.
 
-[Pet Autofeeder](https://cturek.github.io/E155-Autofeeder/)
+[Pet Autofeeder](https://cturek.github.io/E155-Autofeeder/). This autofeeder was my final project for a class. It is pretty awesome.
 
-Physical Chess Puzzle (link coming soon!)
-
-Magnet Maze (link coming soon!)
+I made these puzzles for Harvey Mudd's escape room club (MuddEscapes):
+1. [Physical Chess Puzzle](https://cturek.github.io/home/projects.html)
+2. [Magnet Maze](https://cturek.github.io/home/projects.html)
 
 ## Classes
 
