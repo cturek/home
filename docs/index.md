@@ -6,8 +6,9 @@ exclude: true
 ---
 
 <div style="text-align: center">
-  <img src = "./assets/img/logo.png" alt="logo" width="200" />
-  <img src = "./assets/img/violin.jpg" alt = "violin" height = "200" />
+  <img src = "./assets/img/face.jpg" alt = "face" width = "200" />
+  <img src = "./assets/img/violin.jpg" alt = "violin" width = "200" />
+  <img src = "./assets/img/logo.png" alt="layton" width="200" />
 </div>
 
 ## About Me
@@ -40,9 +41,13 @@ For my senior major capstones, I am writing a [math thesis](https://sites.google
 
 ## Publications
 
-Contributed to the Floating-Point Chapter in *RISC-V System-on-Chip Design* by Harris, Stine, Thompson, and Harris, to be published by Elsevier, 2024.
+I contributed to the Floating-Point Chapter in *RISC-V System-on-Chip Design* by Harris, Stine, Thompson, and Harris, to be published by Elsevier, 2024.
 
-*Digit Selection for Recurrence Division and Square Root* by Harris, Stine, Nannarelli, Ercegovac, Parry, and Turek (link coming soon).
+I co-wrote *Digit Selection for Recurrence Division and Square Root* by Harris, Stine, Nannarelli, Ercegovac, Parry, and Turek (link coming soon).
+
+## Violin
+
+I play the violin a lot. You can find some old videos on my [dad's youtube channel](https://www.youtube.com/@steamboatdad).
 
 ## Contact Information
 
