@@ -8,9 +8,9 @@ This is a list of all the classes I've been involved with.
 
 ## Tutored/Graded/Proctored Classes
 
-| Commutative Algebra | Digital Design and Computer Architecture | Abstract Algebra |
-| Linear Algebra | Differential Equations | Experimental Engineering |
-| Graph Theory | System-on-Chip Design | Calculus |
+| System-on-Chip Deisgn | Experimental Engineering | Graph Theory |
+| Digital Design and Computer Architecture | Commutative Algebra | Abstract Algebra |
+| Differential Equations | Calculus | Linear Algebra |
 
 # Engr 154: System-on-Chip Design
 
