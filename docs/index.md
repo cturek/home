@@ -37,7 +37,9 @@ Magnet Maze (link coming soon!)
 
 I've taken and graded/tutored for a lot of classes. Check out the list [here](https://cturek.github.io/home/classes.html).
 
-For my senior major capstones, I am writing a [math thesis](https://sites.google.com/g.hmc.edu/cturek) on differential topology and doing an engineering clinic with [Sandia National Laboratories](https://www.sandia.gov/) measuring ferroelectric permittivity of barium titanate. 
+For my senior major capstones, I am writing a [math thesis](https://sites.google.com/g.hmc.edu/cturek) on differential topology and doing an engineering clinic with [Sandia National Laboratories](https://www.sandia.gov/) measuring ferroelectric permittivity of barium titanate. We are writing a paper and will be presenting at the APS March Meeting in 2023. 
+
+My junior engineering capstone was a clinic with Toyota. We researched, designed, and tested novel methods of improving heat rejection on [fuel cell-powered semi trucks](https://pressroom.toyota.com/the-future-of-zero-emission-trucking-takes-another-leap-forward/). Our final design improved the cooling capacity of the radiator by 20%. 
 
 ## Publications
 
