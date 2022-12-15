@@ -6,7 +6,8 @@ exclude: true
 ---
 
 <div style="text-align: center">
-  <img src="./assets/img/logo.png" alt="logo" width="200" />
+  <img src = "./assets/img/logo.png" alt="logo" width="200" />
+  <img src = "./assets/img/violin.jpg" alt = "violin" height = "200" />
 </div>
 
 ## About Me
