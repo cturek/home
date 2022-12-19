@@ -49,8 +49,3 @@ The solidworks files of the maze are available [on github](https://github.com/ct
   <img src = "./assets/img/thumb.jpg" alt = "maze" width = "400" />
 </div>
 <center>Figure 3. Magnet Maze (Thumb for Scale.)</center>
-
-<p aria-hidden="true">Visible text screen readers should ignore</p>
-
-<p hidden>Hidden text screen readers should also ignore</p>
-
