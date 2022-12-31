@@ -39,7 +39,7 @@ Taught by Professor Haydee Lindo, FA22.
 
 # Engr 85: Digital Design and Computer Architecture
 
-Design and implementation of digital systems. Topics include levels of abstraction, Boolean algebra, combinational logic, sequential logic, finite state machines, hardware description languages, computer arithmetic, C and assembly programming, embedded systems, and microarchitecture. Lab practices include simulation, prototyping, and debugging
+Design and implementation of digital systems. Topics include levels of abstraction, Boolean algebra, combinational logic, sequential logic, finite state machines, hardware description languages, computer arithmetic, C and assembly programming, embedded systems, and microarchitecture. Lab practices include simulation, prototyping, and debugging.
 
 Taught by Professor David Harris, FA22. 
 
@@ -99,7 +99,9 @@ Taught by Professor Andrew Bernoff, FA21.
 
 # Math 189AA: Commutative Algebra
 
-See above for details. Taught by Professor Haydee Lindo, SP21. 
+This course is an introduction to the fundamental concepts and questions in the study of commutative rings, with a special focus on the notion of "prime ideals," and how they generalize the idea primeness in the integers. Possible topics include Noetherian rings, primary decomposition, basic module theory, exact sequences and key results like the Krull Altitude Theorem and Nakayama's Lemma.
+
+Taught by Professor Haydee Lindo, SP21. 
 
 # Math 172: Galois Theory
 
@@ -109,7 +111,9 @@ Taught by Professor Leonid Fukshansky, SP21.
 
 # Math 171: Abstract Algebra
 
-See above for details. Taught by Professor Jessalyn Bolkema, SP20.
+Groups, rings, fields and additional topics. Topics in group theory include groups, subgroups, quotient groups, Lagrange's theorem, symmetry groups, and the isomorphism theorems. Topics in Ring theory include Euclidean domains, PIDs, UFDs, fields, polynomial rings, ideal theory, and the isomorphism theorems. In recent years, additional topics have included the Sylow theorems, group actions, modules, representations, and introductory category theory.
+
+Taught by Professor Jessalyn Bolkema, SP20.
 
 # Math 55A: Discrete Math
 
@@ -126,7 +130,11 @@ Taught by Professor Arthur Benjamin, FA19.
 
 # Engr 154: System-on-Chip Design
 
-See above for details. Taught by Professor David Harris, SP23.
+**I helped write the textbook for this class.**
+
+System-on-chip design of a RISC-V based platform. Topics include RISC-V architecture, C and assembly language programming and debugging, platform emulation, Linux-based workflow automation, SystemVerilog, logic synthesis and validation, pipelined microarchitecture, privileged operations, bus interfaces and peripherals, memory systems, branch prediction, computer arithmetic, benchmarking, operating systems, and silicon implementation. Class project involving design and optimization.
+
+Taught by Professor David Harris, SP23.
 
 # Engr 155: Microprocessor Based Systems: Design and Applications
 
@@ -142,7 +150,9 @@ Taught by Professor Erik Spjut, SP22.
 
 # Engr 80: Experimental Engineering
 
-See above for details. Taught by Staff, SP22. 
+A laboratory course designed to acquaint the student with the basic techniques of instrumentation and measurement in both the laboratory and in engineering field measurements. Emphasis on experimental problem solving in real systems.
+
+Taught by Staff, SP22. 
 
 # Engr 101: Advanced Systems Engineering
 
@@ -158,7 +168,9 @@ Taught by Professor Gordon Krauss, FA21.
 
 # Engr 85: Digital Electronics and Computer Engineering
 
-See above for details. Taught by Professor David Harris, FA21. 
+Design and implementation of digital systems. Topics include levels of abstraction, Boolean algebra, combinational logic, sequential logic, finite state machines, hardware description languages, computer arithmetic, C and assembly programming, embedded systems, and microarchitecture. Lab practices include simulation, prototyping, and debugging.
+
+Taught by Professor David Harris, FA21. 
 
 # Engr 84: Electronic and Magnetic Circuits and Devices
 

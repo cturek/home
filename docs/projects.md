@@ -3,7 +3,7 @@ layout: page
 title: Projects
 ---
 
-I have done some projects for classes and, more recently, for clubs.
+This is a list of projects I've done for classes and clubs.
 
 ## E155: Microprocessors
 
@@ -20,7 +20,6 @@ Manuel Mendoza and I constructed a modified 2.2" diameter Adventurer rocket. We 
   <img src = "./assets/img/look.JPG" alt = "look" width = "300" />
   <img src = "./assets/img/touch_wires.png" alt = "wires" width = "300" />
 </div>
-<center>About to lift off.</center>
 
 <div style="text-align: center">
   <img src = "./assets/img/rocket_path.png" alt = "path" width = "600" />
@@ -48,12 +47,10 @@ I like to do chess puzzles, and I thought that a real-life one might fit in with
 <div style="text-align: center">
   <img src = "./assets/img/schessmatic.jpg" alt = "schessme" width = "500" />
 </div>
-<center>Electromagnet and Reed Switch Schematic.</center>
 
 <div style="text-align: center">
   <img src = "./assets/img/puzzle.jpg" alt = "chezzle" width = "400" />
 </div>
-<center>Chess Puzzle.</center>
 
 See if you can figure out where to place white's other knight.
 
@@ -68,4 +65,3 @@ The solidworks files of the maze are available [on github](https://github.com/ct
 <div style="text-align: center">
   <img src = "./assets/img/thumb.jpg" alt = "maze" width = "400" />
 </div>
-<center>Magnet Maze (Thumb for Scale.)</center>

@@ -25,13 +25,9 @@ In the past, I worked as an intern at [Volpe Pathways](https://www.volpe.dot.gov
 
 ## Projects
 
-Here are some projects I've worked on.
+[Here are some more personal projects I've worked on.](https://cturek.github.io/home/projects.html)
 
-[Pet Autofeeder](https://cturek.github.io/E155-Autofeeder/). This autofeeder was my final project for a class. It is pretty awesome.
-
-I made these puzzles for Harvey Mudd's escape room club (MuddEscapes):
-1. [Physical Chess Puzzle](https://cturek.github.io/home/projects.html)
-2. [Magnet Maze](https://cturek.github.io/home/projects.html)
+I designed a [Pet Autofeeder](https://cturek.github.io/E155-Autofeeder/) with Manuel Mendoza, which has its own website.
 
 ## Classes
 
@@ -41,15 +37,23 @@ For my senior major capstones, I am writing a [math thesis](https://sites.google
 
 My junior engineering capstone was a clinic with Toyota. We researched, designed, and tested novel methods of improving heat rejection on [fuel cell-powered semi trucks](https://pressroom.toyota.com/the-future-of-zero-emission-trucking-takes-another-leap-forward/). Our final design improved the cooling capacity of the radiator by 20%. 
 
+<div style="text-align: center">
+  <img src = "./assets/img/radiator.jpg" alt = "radiate" width = "600" />
+  
+  Our testing setup for the semi truck radiator.
+</div>
+
 ## Publications
 
 I contributed to the Floating-Point Chapter in *RISC-V System-on-Chip Design* by Harris, Stine, Thompson, and Harris, to be published by Elsevier, 2024.
 
 I co-wrote *Digit Selection for Recurrence Division and Square Root* by Harris, Stine, Nannarelli, Ercegovac, Parry, and Turek (link coming soon).
 
+I am going to co-write a paper on a combined integer and floating point division, remainder, and square root module this spring.
+
 ## Violin
 
-I play the violin a lot. You can find some old videos on my [dad's youtube channel](https://www.youtube.com/@steamboatdad).
+I play the violin a lot. There are some old videos on my [dad's youtube channel](https://www.youtube.com/@steamboatdad).
 
 ## Contact Information
 
