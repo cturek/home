@@ -38,7 +38,7 @@ I was on a team with James Clinton, Kaanthi Pandhigunta, Sarah Covey, and  Zenev
 
 ## MuddEscapes
 
-MuddEscapes is the escape room building club at Harvey Mudd. I joined in the Fall 2022 semester, and I've made two puzzles.
+MuddEscapes is a club at Harvey Mudd which builds a complete escape room each semester. I joined in Fall 2022, and I've made two puzzles.
 
 # 1. Physical Chess Puzzle
 

@@ -39,9 +39,8 @@ My junior engineering capstone was a clinic with Toyota. We researched, designed
 
 <div style="text-align: center">
   <img src = "./assets/img/radiator.jpg" alt = "radiate" width = "600" />
-  
-  Our testing setup for the semi truck radiator.
 </div>
+<center>Our testing setup for the semi truck radiator.</center>
 
 ## Publications
 
