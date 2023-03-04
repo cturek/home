@@ -46,9 +46,7 @@ My junior engineering capstone was a clinic with Toyota. We researched, designed
 
 I contributed to the Floating-Point Chapter in *RISC-V System-on-Chip Design* by Harris, Stine, Thompson, and Harris, to be published by Elsevier, 2024.
 
-I co-wrote *Digit Selection for Recurrence Division and Square Root* by Harris, Stine, Nannarelli, Ercegovac, Parry, and Turek (link coming soon).
-
-I am going to co-write a paper on a combined integer and floating point division, remainder, and square root module this spring.
+I co-wrote *Digit Selection for Recurrence Division and Square Root* by Harris, Stine, Nannarelli, Ercegovac, Parry, and Turek, submitted to IEEE Transactions on Computers and awaiting approval. 
 
 ## Violin
 
