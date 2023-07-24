@@ -19,7 +19,7 @@ Hi! I'm Cedar. Currently, I'm a Masters of Applied Science student in the Electr
 
 I will be working with Guy Lemieux at UBC researching hardware acceleration in chip architecture starting in September 2023. 
 
-Previously, I did research with [Professor David Harris](http://pages.hmc.edu/harris/) as a [Clay-Wolkin fellow](https://www.hmc.edu/engineering/engineering-fellowships/clay-wolkin-fellowship/). We designed a RISC-V pipelined processor, and the team is putting the finishing touches on a textbook for teaching courses on the architecture. I coauthored a manuscript on the division and square root module which was submitted to IEEE Transactions on Computers and is awaiting approval.
+Previously, I did research with [Professor David Harris](http://pages.hmc.edu/harris/) as a [Clay-Wolkin fellow](https://www.hmc.edu/engineering/engineering-fellowships/clay-wolkin-fellowship/). We designed a RISC-V pipelined processor, and the team is putting the finishing touches on a textbook for teaching courses on the architecture. I coauthored a manuscript on the division and square root module.
 
 I also [graded and tutored for various classes](https://cturek.github.io/home/classes.html) at HMC.
 
@@ -49,6 +49,8 @@ My junior engineering capstone was a clinic with Toyota. We researched, designed
 I contributed to the Floating-Point Chapter in *RISC-V System-on-Chip Design* by Harris, Stine, Thompson, and Harris, to be published by Elsevier, 2024.
 
 I co-wrote *Digit Selection for Recurrence Division and Square Root* by Harris, Stine, Nannarelli, Ercegovac, Parry, and Turek, submitted to IEEE Transactions on Computers and awaiting approval. 
+
+I co-wrote *Analyzing Barium Titanate TiO2 Surface Interactions with tert-Butylphosphonic Acid Using Density Functional Theory* by Marvin, Nicholson, Turek, Iwasa, Pangrekar, Fowler, Van Ginhoven, and Monson, submitted to MRS Communications and awaiting approval. 
 
 ## Violin
 
