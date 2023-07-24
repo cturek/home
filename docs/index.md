@@ -13,15 +13,17 @@ exclude: true
 
 ## About Me
 
-Hi! I'm Cedar. Currently, I'm a senior at Harvey Mudd College majoring in math and engineering. Here's my [resume](https://cturek.github.io/home/resume.html).
+Hi! I'm Cedar. Currently, I'm a Masters of Applied Science student in the Electrical and Computer Engineering department at the University of British Columbia. Before that, I attended Harvey Mudd College, where I obtained a double major in Mathematics and Engineering. Here's my [resume](https://cturek.github.io/home/resume.html).
 
 ## Work Experience
 
-I'm currently doing research with [Professor David Harris](http://pages.hmc.edu/harris/) as a [Clay-Wolkin fellow](https://www.hmc.edu/engineering/engineering-fellowships/clay-wolkin-fellowship/). We are designing a RISC-V pipelined processor, and we are writing a textbook for teaching courses on the architecture. I'm coauthoring a paper on the division and square root module (links coming soon).
+I will be working with Guy Lemieux at UBC researching hardware acceleration in chip architecture starting in September 2023. 
 
-I also [grade and tutor for various classes](https://cturek.github.io/home/classes.html).
+Previously, I did research with [Professor David Harris](http://pages.hmc.edu/harris/) as a [Clay-Wolkin fellow](https://www.hmc.edu/engineering/engineering-fellowships/clay-wolkin-fellowship/). We designed a RISC-V pipelined processor, and the team is putting the finishing touches on a textbook for teaching courses on the architecture. I coauthored a manuscript on the division and square root module which was submitted to IEEE Transactions on Computers and is awaiting approval.
 
-In the past, I worked as an intern at [Volpe Pathways](https://www.volpe.dot.gov/about-us/careers/student-and-recent-graduate-opportunities), as a counselor at [MathPath](https://www.mathpath.org/), and as a [backgammon researcher under Professor Arthur Benjamin](https://www.hmc.edu/about/2021/01/11/art-benjamin-is-backgammon-champ/).
+I also [graded and tutored for various classes](https://cturek.github.io/home/classes.html) at HMC.
+
+In the past summers, I worked as an intern at [Volpe Pathways](https://www.volpe.dot.gov/about-us/careers/student-and-recent-graduate-opportunities), as a counselor at [MathPath](https://www.mathpath.org/), and as a [backgammon researcher under Professor Arthur Benjamin](https://www.hmc.edu/about/2021/01/11/art-benjamin-is-backgammon-champ/).
 
 ## Projects
 
