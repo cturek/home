@@ -13,7 +13,7 @@ We made a [website](https://cturek.github.io/E155-Autofeeder/) about it, please 
 
 ## E178: Rocketry
 
-Manuel Mendoza and I constructed a modified 2.2" diameter Adventurer rocket. We significantly improved the mechanical design and added some avionics to gather flight data. We ran it on an Aerotech J825 and an Aerotech J510 motor. We wrote a [report](https://drive.google.com/file/d/11HE61pQGkM0tGWyGUwhKrm2JhF67iAQo/view) on the J825 flight.
+My friend Manuel Mendoza and I constructed a modified 2.2" diameter Adventurer rocket. We significantly improved the mechanical design and added some avionics to gather flight data. We ran it on an Aerotech J825 and an Aerotech J510 motor. We wrote a [report](https://drive.google.com/file/d/11HE61pQGkM0tGWyGUwhKrm2JhF67iAQo/view) on the J825 flight.
 
 <div style="text-align: center">
   <img src = "./assets/img/stanced.JPG" alt = "stanced" width = "300" />
