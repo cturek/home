@@ -6,10 +6,16 @@ title: Classes
 This is a list of all the classes I've been involved with.
 
 ## Tutored/Graded/Proctored Classes
-
+| | Computing Systems I | |
 | System-on-Chip Deisgn | Experimental Engineering | Graph Theory |
 | Digital Design and Computer Architecture | Commutative Algebra | Abstract Algebra |
 | Differential Equations | Calculus | Linear Algebra |
+
+# CPEN 211: Computing Systems I
+
+Boolean algebra; combinational and sequential circuits; organization and operation of microcomputers, memory addressing modes, representation of information, instruction sets, machine and assembly language programming, systems programs, I/O structures, I/O interfacing and I/O programming, introduction to digital system design using microcomputers.
+
+Taught by Professor Tor Aamodt, FA23.
 
 # Engr 154: System-on-Chip Design
 
@@ -69,9 +75,22 @@ Taught by Staff, SP20.
 
 ## Math Classes
 
+| Algebraic Geometry | Elementary Number Theory | |
 | Probability | Harmonic Analysis | Complex Analysis |
 | Real Analysis | Partial Differential Equations | Commutative Algebra |
 | Galois Theory | Abstract Algebra | Discrete Math |
+
+# Math 532: Algebraic Geometry
+
+A first introduction to algebraic geometry. The goal is to prepare students to take more advanced courses in the subject. We study the basic objects of algebraic geometry, algebraic varieties and schemes. 
+
+Taught by Professor Kai Behrend, FA23.
+
+# Math 537: Elementary Number Theory
+
+The students are expected to learn the following, which also includes being able to solve questions combining all of these topics: the Fundamental Theorem of Arithmetic; properties of congruences; Fermat’s Little Theorem and Euler’s Theorem; important multiplicative functions; properties of the primitive root corresponding to a given moduli; the quadratic reciprocity theorem; and basic Diophantine Equations and basic Diophantine Approximation.
+
+Taught by Professor Dragos Ghioca, FA23.
 
 # Math 157: Intermediate Probability
 
@@ -123,10 +142,17 @@ Taught by Professor Arthur Benjamin, FA19.
 
 ## Engineering Classes
 
+| | Advanced Computer Architecture | |
 | System-on-Chip Design | Microprocessor Based Systems | High Power Rocketry |
 | Experimental Engineering | Systems Engineering | Materials Engineering |
 | Digital Design and Computer Architecture | Analog Circuits | Continuum Mechanics |
 | Chemical and Thermal Processes | | Design and Manufacturing |
+
+# CPEN 411: Advanced Computer Architecture
+
+First, we learn about the microarchitecture of a single microprocessor core and then how multiple such cores are combined in modern processors. We learn the mechanisms used to improve performance given a fixed implementation technology (e.g., 14 nm silicon) and techniques used in designing computer systems at both the microarchitecture and architecture levels. The course combines both theoretical and practical components, and students will be evaluated on their proficiency in both aspects.
+
+Taught by Professor Prashant Nair, FA23. 
 
 # Engr 154: System-on-Chip Design
 
