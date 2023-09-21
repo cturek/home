@@ -7,13 +7,13 @@ This is a list of projects I've done for classes and clubs.
 
 ## E155: Microprocessors
 
-Manuel Mendoza and I made a configurable, fully functional pet autofeeder. It is super awesome. 
+My friend Manuel Mendoza and I made a configurable, fully functional pet autofeeder. It is super awesome. 
 
 We made a [website](https://cturek.github.io/E155-Autofeeder/) about it, please check it out!
 
 ## E178: Rocketry
 
-My friend Manuel Mendoza and I constructed a modified 2.2" diameter Adventurer rocket. We significantly improved the mechanical design and added some avionics to gather flight data. We ran it on an Aerotech J825 and an Aerotech J510 motor. We wrote a [report](https://drive.google.com/file/d/11HE61pQGkM0tGWyGUwhKrm2JhF67iAQo/view) on the J825 flight.
+Manuel Mendoza and I constructed a modified 2.2" diameter Adventurer rocket. We significantly improved the mechanical design and added some avionics to gather flight data. We ran it on an Aerotech J825 and an Aerotech J510 motor. We wrote a [report](https://drive.google.com/file/d/11HE61pQGkM0tGWyGUwhKrm2JhF67iAQo/view) on the J825 flight.
 
 <div style="text-align: center">
   <img src = "./assets/img/stanced.JPG" alt = "stanced" width = "300" />
