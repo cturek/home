@@ -8,7 +8,7 @@ exclude: true
 <div style="text-align: center">
   <img src = "./assets/img/face.jpg" alt = "face" width = "200" />
   <img src = "./assets/img/violin.jpg" alt = "violin" width = "200" />
-  <img src = "./assets/img/logo.png" alt="layton" width="200" />
+  <img src = "./assets/img/hard.png" alt="climbing" width="200" />
 </div>
 
 ## About Me
