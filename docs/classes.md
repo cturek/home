@@ -6,6 +6,7 @@ title: Classes
 This is a list of all the classes I've been involved with.
 
 ## Tutored/Graded/Proctored Classes
+
 | Computing Systems | System-on-Chip Deisgn | Experimental Engineering | 
 | Graph Theory | Digital Design and Computer Architecture | Commutative Algebra |
 | Abstract Algebra | Differential Equations | Linear Algebra |
