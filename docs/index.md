@@ -29,7 +29,7 @@ In the past summers, I worked as an intern at [Volpe Pathways](https://www.volpe
 
 [Here are some more personal projects I've worked on.](https://cturek.github.io/home/projects.html)
 
-I designed a [Pet Autofeeder](https://cturek.github.io/E155-Autofeeder/) with Manuel Mendoza, which has its own website.
+I designed a [Pet Autofeeder](https://cturek.github.io/E155-Autofeeder/), which has its own website.
 
 ## Classes
 
@@ -58,6 +58,6 @@ I play the violin a lot. There are some old videos on my [dad's youtube channel]
 
 ## Contact Information
 
-You can reach me at cedarturek (at) gmail (dot) com or cturek (at) g (dot) hmc (dot) edu. 
+You can reach me at cedarturek (at) gmail (dot) com. 
 
 My cell is +1 (970) - eight four six - 0531. 
