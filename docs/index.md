@@ -59,8 +59,4 @@ I co-wrote *Analyzing Barium Titanate TiO2 Surface Interactions with tert-Butylp
 
 I play the violin a lot. There are some old videos on my [dad's youtube channel](https://www.youtube.com/@steamboatdad). I also enjoy playing hockey, golf, and tennis, skiing in the winter, and swimming. Otherwise, you will probably find me cooking or playing video games. 
 
-## Contact Information
-
-You can reach me at cedarturek (at) gmail (dot) com. 
-
-My cell is +1 (970) - eight four six - 0531. 
+## [Contact Information](https://cturek.github.io/home/contact.html)
