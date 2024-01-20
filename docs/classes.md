@@ -71,8 +71,6 @@ Taught by Staff, SP20.
 
 ## Math Classes Taken
 
----
-
 |Algebraic Topology | Algebraic Number Theory | Algebraic Geometry |
 | Elementary Number Theory | Probability | Harmonic Analysis |
 | Complex Analysis | Real Analysis | Commutative Algebra |
@@ -169,8 +167,6 @@ Taught by Arthur Benjamin, FA19.
 
 ## Engineering Classes Taken
 
----
-
 | VLSI Design | Advanced Computer Architecture | System-on-Chip Design |
 | High Power Rocketry | Microprocessor Based Systems | Experimental Engineering | 
 | Materials Engineering | Digital Design and Computer Architecture | Systems Engineering |
@@ -257,8 +253,6 @@ Taught by Professors Steven Santana and Leah Mendelson, FA20.
 ---
 
 ## CS Classes Taken
-
----
 
 | Algorithms | Data Structures and Program Development | Principles of Computer Science | 
 
