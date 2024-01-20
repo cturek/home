@@ -5,6 +5,8 @@ title: Classes
 
 This is a list of all the classes I've been involved with.
 
+---
+
 ## Tutored/Graded/Proctored Classes
 
 | System-on-Chip Deisgn | Experimental Engineering | Graph Theory |
@@ -65,7 +67,11 @@ Theory and applications of linearity, including vectors, matrices, systems of li
 
 Taught by Staff, SP20.
 
+---
+
 ## Math Classes Taken
+
+---
 
 |Algebraic Topology | Algebraic Number Theory | Algebraic Geometry |
 | Elementary Number Theory | Probability | Harmonic Analysis |
@@ -159,7 +165,11 @@ Topics include combinatorics (clever ways of counting things), number theory, an
 
 Taught by Arthur Benjamin, FA19.
 
+---
+
 ## Engineering Classes Taken
+
+---
 
 | VLSI Design | Advanced Computer Architecture | System-on-Chip Design |
 | High Power Rocketry | Microprocessor Based Systems | Experimental Engineering | 
@@ -244,7 +254,11 @@ Design problems are, typically, open-ended and ill-structured. Students work in 
 
 Taught by Professors Steven Santana and Leah Mendelson, FA20.
 
+---
+
 ## CS Classes Taken
+
+---
 
 | Algorithms | Data Structures and Program Development | Principles of Computer Science | 
 
