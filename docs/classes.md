@@ -15,7 +15,7 @@ This is a list of all the classes I've been involved with.
 
 System-on-chip design of a RISC-V based platform. Topics include RISC-V architecture, C and assembly language programming and debugging, platform emulation, Linux-based workflow automation, SystemVerilog, logic synthesis and validation, pipelined microarchitecture, privileged operations, bus interfaces and peripherals, memory systems, branch prediction, computer arithmetic, benchmarking, operating systems, and silicon implementation. Class project involving design and optimization.
 
-Taught by Professor David Harris, SP23. I helped write the textbook for this class.
+Taught by David Harris, SP23. I helped write the textbook for this class.
 
 # Engr 80: Experimental Engineering
 
@@ -27,25 +27,25 @@ Taught by Staff, SP23.
 
 An introduction to graph theory with applications. Theory and applications of trees, matchings, graph coloring, planarity, graph algorithms, and other topics.
 
-Taught by Professor Mohamed Omar, SP23.
+Taught by Mohamed Omar, SP23.
 
 # Math 189AA: Commutative Algebra
 
 This course is an introduction to the fundamental concepts and questions in the study of commutative rings, with a special focus on the notion of "prime ideals," and how they generalize the idea primeness in the integers. Possible topics include Noetherian rings, primary decomposition, basic module theory, exact sequences and key results like the Krull Altitude Theorem and Nakayama's Lemma.
 
-Taught by Professor Haydee Lindo, FA22.
+Taught by Haydee Lindo, FA22.
 
 # Engr 85: Digital Design and Computer Architecture
 
 Design and implementation of digital systems. Topics include levels of abstraction, Boolean algebra, combinational logic, sequential logic, finite state machines, hardware description languages, computer arithmetic, C and assembly programming, embedded systems, and microarchitecture. Lab practices include simulation, prototyping, and debugging.
 
-Taught by Professor David Harris, FA22. 
+Taught by David Harris, FA22. 
 
 # Math 171: Abstract Algebra
 
 Groups, rings, fields and additional topics. Topics in group theory include groups, subgroups, quotient groups, Lagrange's theorem, symmetry groups, and the isomorphism theorems. Topics in Ring theory include Euclidean domains, PIDs, UFDs, fields, polynomial rings, ideal theory, and the isomorphism theorems. In recent years, additional topics have included the Sylow theorems, group actions, modules, representations, and introductory category theory.
 
-Taught by Professor Michael Orrison, SP22; Professor Mohamed Omar, FA21 and SP21.
+Taught by Michael Orrison, SP22; Mohamed Omar, FA21 and SP21.
 
 # Math 82: Differential Equations
 
@@ -65,105 +65,132 @@ Theory and applications of linearity, including vectors, matrices, systems of li
 
 Taught by Staff, SP20.
 
-## Math Classes
+## Math Classes Taken
 
-| Algebraic Geometry | Elementary Number Theory | Probability |
-| Harmonic Analysis | Complex Analysis | Real Analysis |
-| Partial Differential Equations | Commutative Algebra | Galois Theory |
-| Abstract Algebra | | Discrete Math |
+|Algebraic Topology | Algebraic Number Theory | Algebraic Geometry |
+| Elementary Number Theory | Probability | Harmonic Analysis |
+| Complex Analysis | Real Analysis | Commutative Algebra |
+| Partial Differential Equations | Galois Theory | Discrete Math |
+
+# Math 527: Algebraic Topology
+
+This course covers some essential elements of algebraic topology. It has, very broadly, two parts: Homology and Cohomology.
+
+Taught by Liam Watson, SP24.
+
+# Math 538: Algebraic Number Theory
+
+This will be a standard graduate number theory course.
+Topics will include:
+• Number fields, rings of integers, ideals and unique factorization. Finiteness of the class group.
+• Valuations and completions; local fields.
+• Ramification theory, the different and discriminant.
+• Geometry of numbers: Dirichlet’s Unit Theorem. and discriminant bounds.
+
+Taught by Lior Silberman, SP24.
+
+# Math 502: Commutative Algebra
+
+We cover the basics of commutative rings, ideals, modules. We generally follow the textbook. Additional topics include some algebraic geometry and combinatorial algebra.
+
+Taught by Kalle Karu, SP24.
 
 # Math 532: Algebraic Geometry
 
 A first introduction to algebraic geometry. The goal is to prepare students to take more advanced courses in the subject. We study the basic objects of algebraic geometry, algebraic varieties and schemes. 
 
-Taught by Professor Kai Behrend, FA23.
+Taught by Kai Behrend, FA23.
 
 # Math 537: Elementary Number Theory
 
 The students are expected to learn the following, which also includes being able to solve questions combining all of these topics: the Fundamental Theorem of Arithmetic; properties of congruences; Fermat’s Little Theorem and Euler’s Theorem; important multiplicative functions; properties of the primitive root corresponding to a given moduli; the quadratic reciprocity theorem; and basic Diophantine Equations and basic Diophantine Approximation.
 
-Taught by Professor Dragos Ghioca, FA23.
+Taught by Dragos Ghioca, FA23.
 
 # Math 157: Intermediate Probability
 
 Continuous random variables, distribution functions, joint density functions, marginal and conditional distributions, functions of random variables, conditional expectation, covariance and correlation, moment generating functions, law of large numbers, Chebyshev's theorem and central-limit theorem.
 
-Taught by Professor Jina Kim, FA22.
+Taught by Jina Kim, FA22.
 
 # Math 189J: Harmonic Analysis on Finite Groups
 
 This advanced topics course will focus on the use of permutation representations of finite groups to analyze complex-valued functions defined on finite sets. Possible topics include random walks on graphs, Gelfand pairs, generalized fast Fourier transforms, and related applications to statistics, machine learning, and voting theory.
 
-Taught by Professor Michael Orrison, SP22. 
+Taught by Michael Orrison, SP22. 
 
 # Math 135: Complex Analysis
 
 An introduction to the theory and application of analytic functions of a complex variable. Topics may include: Mobius transformation, multiple-valued functions, Cauchy-Riemann equations, harmonic functions, Cauchy's Theorem, Liouville's Theorem, Cauchy's Integral Formula, Maximum Modulus Principle, Argument Principle, Rouche's Theorem, series expansions, isolated singularities, calculus of residues, conformal mapping.
 
-Taught by Professor Asuman Aksoy, FA21.
+Taught by Asuman Aksoy, FA21.
 
 # Math 180: Partial Differential Equations
 
 Partial Differential Equations (PDEs) including the heat equation, wave equation, and Laplace's equation; existence and uniqueness of solutions to PDEs via the maximum principle and energy methods; method of characteristics; Fourier series; Fourier transforms and Green's functions; Separation of variables; Sturm-Liouville theory and orthogonal expansions; Bessel functions.
 
-Taught by Professor Andrew Bernoff, FA21.
+Taught by Andrew Bernoff, FA21.
 
 # Math 189AA: Commutative Algebra
 
 This course is an introduction to the fundamental concepts and questions in the study of commutative rings, with a special focus on the notion of "prime ideals," and how they generalize the idea primeness in the integers. Possible topics include Noetherian rings, primary decomposition, basic module theory, exact sequences and key results like the Krull Altitude Theorem and Nakayama's Lemma.
 
-Taught by Professor Haydee Lindo, SP21. 
+Taught by Haydee Lindo, SP21. 
 
 # Math 172: Galois Theory
 
 This course covers selected topics in the theories of groups, rings, fields, and modules with a specific emphasis on Galois Theory. Topics covered will include polynomial rings, field extensions, splitting fields, algebraic closure, separability, Fundamental Theorem of Galois Theory, Galois groups of polynomials and solvability.
 
-Taught by Professor Leonid Fukshansky, SP21. 
+Taught by Leonid Fukshansky, SP21. 
 
 # Math 171: Abstract Algebra
 
 Groups, rings, fields and additional topics. Topics in group theory include groups, subgroups, quotient groups, Lagrange's theorem, symmetry groups, and the isomorphism theorems. Topics in Ring theory include Euclidean domains, PIDs, UFDs, fields, polynomial rings, ideal theory, and the isomorphism theorems. In recent years, additional topics have included the Sylow theorems, group actions, modules, representations, and introductory category theory.
 
-Taught by Professor Jessalyn Bolkema, SP20.
+Taught by Jessalyn Bolkema, SP20.
 
 # Math 55A: Discrete Math
 
 Topics include combinatorics (clever ways of counting things), number theory, and graph theory with an emphasis on creative problem solving and learning to read and write rigorous proofs. Possible applications include probability, analysis of algorithms, and cryptography. 
 
-Taught by Professor Arthur Benjamin, FA19.
+Taught by Arthur Benjamin, FA19.
 
-## Engineering Classes
+## Engineering Classes Taken
 
-| Advanced Computer Architecture | System-on-Chip Design | Microprocessor Based Systems |
-| High Power Rocketry | Experimental Engineering | Systems Engineering | 
-| Materials Engineering | Digital Design and Computer Architecture | Analog Circuits |
-| Continuum Mechanics | Chemical and Thermal Processes | Design and Manufacturing |
+| VLSI Design | Advanced Computer Architecture | System-on-Chip Design |
+| High Power Rocketry | Microprocessor Based Systems | Experimental Engineering | 
+| Materials Engineering | Digital Design and Computer Architecture | Systems Engineering |
+| Continuum Mechanics | Chemical and Thermal Processes | Analog Circuits |
+
+# ELEC 502: Advanced Topics in Very-Large-Scale Integration (VLSI) Design
+
+Deep learning has emerged as an important technique for solving critical problems across a diverse set of applications. However, VLSI architectures for implementing efficient learning systems remains an open question and a very active research area. Topics will include (1) detailed overview of computations, data patterns, and neural network architectures used in deep learning with the goal of understanding the operations we want to accelerate in hardware, (2) Emerging applications of deep learning, (3) Advanced VLSI topics for designing efficient hardware acceleration of deep learning systems with a focus on VLSI design trade-offs, techniques, and optimizations, (4) Techniques and optimizations for mapping deep learning workloads to general-purpose (CPUs, GPUs) and custom hardware, (5) Exploration of the latest research in both academic and commercial deep learning hardware acceleration. By the end of the course, students will have a good overview of this exciting and emerging field that has many open research opportunities.
+
+Taught by Scott Chin and Bradley Quinton, SP24. 
 
 # CPEN 411: Advanced Computer Architecture
 
 First, we learn about the microarchitecture of a single microprocessor core and then how multiple such cores are combined in modern processors. We learn the mechanisms used to improve performance given a fixed implementation technology (e.g., 14 nm silicon) and techniques used in designing computer systems at both the microarchitecture and architecture levels. The course combines both theoretical and practical components, and students will be evaluated on their proficiency in both aspects.
 
-Taught by Professor Prashant Nair, FA23. 
+Taught by Prashant Nair, FA23. 
 
 # Engr 154: System-on-Chip Design
 
-**I helped write the textbook for this class.**
-
 System-on-chip design of a RISC-V based platform. Topics include RISC-V architecture, C and assembly language programming and debugging, platform emulation, Linux-based workflow automation, SystemVerilog, logic synthesis and validation, pipelined microarchitecture, privileged operations, bus interfaces and peripherals, memory systems, branch prediction, computer arithmetic, benchmarking, operating systems, and silicon implementation. Class project involving design and optimization.
 
-Taught by Professor David Harris, SP23.
+Taught by David Harris, SP23. I helped write the textbook for this class.
 
 # Engr 155: Microprocessor Based Systems: Design and Applications
 
 Introduction to digital design using programmable logic and microprocessors. Combinational and sequential logic. Finite state machines. Hardware description languages. Field programmable gate arrays. Microcontrollers and embedded system design. Students gain experience with complex digital system design, embedded programming, and hardware/software trade-offs through significant laboratory and project work.
 
-Taught by Professor Josh Brake, FA22. 
+Taught by Josh Brake, FA22. 
 
 # Engr 178: High Power Rocketry
 
 This course uses high power rockets as a vehicle for learning and demonstrating competence in modeling, experimental data collection and data analysis of rigid body and flight dynamics. In particular, students will perform 1-D analytical and numerical characterization of flight data including motor performance, testing and characterization of avionics and telemetry, develop and use models for inertial navigation and sensor fusion, and characterize structural dynamics during flight. The final project will demonstrate all of the above from data the students collect during flights of the rockets the students will construct and instrument, designed to reach Mach 1.6 and an altitude of 13,000 ft.
 
-Taught by Professor Erik Spjut, SP22. 
+Taught by Erik Spjut, SP22. 
 
 # Engr 80: Experimental Engineering
 
@@ -181,31 +208,31 @@ Taught by Professors Phillip Cha and Qimin Yang, FA21.
 
 Introduction to the structure, properties and processing of materials used in engineering applications. Topics include: material structure (bonding, crystalline and non-crystalline structures, imperfections); equilibrium microstructures; diffusion, nucleation, growth, kinetics, non-equilibrium processing; microstructure, properties and processing of: steel, ceramics, polymers and composites; creep and yield; fracture mechanics; and the selection of materials and appropriate performance indices.
 
-Taught by Professor Gordon Krauss, FA21. 
+Taught by Gordon Krauss, FA21. 
 
 # Engr 85: Digital Electronics and Computer Engineering
 
 Design and implementation of digital systems. Topics include levels of abstraction, Boolean algebra, combinational logic, sequential logic, finite state machines, hardware description languages, computer arithmetic, C and assembly programming, embedded systems, and microarchitecture. Lab practices include simulation, prototyping, and debugging.
 
-Taught by Professor David Harris, FA21. 
+Taught by David Harris, FA21. 
 
 # Engr 84: Electronic and Magnetic Circuits and Devices
 
 Introduction to the fundamental principles underlying electronic devices and applications of these devices in circuits. Topics include electrical properties of materials; physical electronics (with emphasis on semiconductors and semiconductor devices); passive linear electrical and magnetic circuits; active linear circuits (including elementary transistor amplifiers and the impact of non-ideal characteristics of operational amplifiers on circuit behavior); operating point linearization and load-line analysis; electromagnetic devices such as transformers.
 
-Taught by Professor Ruye Wang, SP21.
+Taught by Ruye Wang, SP21.
 
 # Engr 83: Continuum Mechanics
 
 The fundamentals of modeling continuous media, including: stress, strain and constitutive relations; elements of tensor analysis; basic applications of solid and fluid mechanics (including beam theory, torsion, statically indeterminate problems and Bernoulli's principle); application of conservation laws to control volumes.
 
-Taught by Professor Phillip Cha, SP21. 
+Taught by Phillip Cha, SP21. 
 
 # Engr 82: Chemical and Thermal Processes
 
 The basic elements of thermal and chemical processes, including: state variables, open and closed systems, and mass balance; energy balance, First Law of Thermodynamics for reactive and non-reactive systems; entropy balance, Second Law of Thermodynamics, thermodynamic cycles and efficiency.
 
-Taught by Professor Erik Spjut, FA20.
+Taught by Erik Spjut, FA20.
 
 # Engr 4: Introduction to Engineering Design and Manufacturing
 
@@ -213,7 +240,7 @@ Design problems are, typically, open-ended and ill-structured. Students work in 
 
 Taught by Professors Steven Santana and Leah Mendelson, FA20.
 
-## CS Classes
+## CS Classes Taken
 
 | Algorithms | Data Structures and Program Development | Principles of Computer Science | 
 
@@ -221,7 +248,7 @@ Taught by Professors Steven Santana and Leah Mendelson, FA20.
 
 Algorithm design, analysis, and correctness. Design techniques including divide-and-conquer and dynamic programming. Analysis techniques including solutions to recurrence relations and amortization. Correctness techniques including invariants and inductive proofs. Applications including sorting and searching, graph theoretic problems such as shortest path and network flow, and topics selected from arithmetic circuits, parallel algorithms, computational geometry, and others. An introduction to computational complexity, NP-completeness, and approximation algorithms.
 
-Taught by Professor Chris Stone, SP23.
+Taught by Chris Stone, SP23.
 
 # CS 70: Data Structures and Program Development
 
@@ -239,4 +266,4 @@ Taught by Staff, FA20.
 
 Introduction to elements of computer science. Students learn computational problem-solving techniques and gain experience with the design, implementation, testing and documentation of programs in a high-level language. In addition, students learn to design digital devices, understand how computers operate, and learn to program in a small machine language. Students are also exposed to ideas in computability theory. The course includes discussions of societal and ethical issues related to computer science.
 
-Taught by Professor Geoff Kuenning, FA19. 
+Taught by Geoff Kuenning, FA19. 
