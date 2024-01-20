@@ -82,9 +82,13 @@ Taught by Liam Watson, SP24.
 
 This will be a standard graduate number theory course.
 Topics will include:
+
 • Number fields, rings of integers, ideals and unique factorization. Finiteness of the class group.
+
 • Valuations and completions; local fields.
+
 • Ramification theory, the different and discriminant.
+
 • Geometry of numbers: Dirichlet’s Unit Theorem. and discriminant bounds.
 
 Taught by Lior Silberman, SP24.
