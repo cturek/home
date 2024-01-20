@@ -7,23 +7,15 @@ This is a list of all the classes I've been involved with.
 
 ## Tutored/Graded/Proctored Classes
 
-| Computing Systems | System-on-Chip Deisgn | Experimental Engineering | 
-| Graph Theory | Digital Design and Computer Architecture | Commutative Algebra |
-| Abstract Algebra | Differential Equations | Linear Algebra |
-
-# CPEN 211: Computing Systems I
-
-Boolean algebra; combinational and sequential circuits; organization and operation of microcomputers, memory addressing modes, representation of information, instruction sets, machine and assembly language programming, systems programs, I/O structures, I/O interfacing and I/O programming, introduction to digital system design using microcomputers.
-
-Taught by Professor Tor Aamodt, FA23.
+| System-on-Chip Deisgn | Experimental Engineering | Graph Theory |
+| Commutative Algebra | Digital Design and Computer Architecture | Abstract Algebra |
+| Differential Equations | Linear Algebra | Calculus |
 
 # Engr 154: System-on-Chip Design
 
-**I helped write the textbook for this class.**
-
 System-on-chip design of a RISC-V based platform. Topics include RISC-V architecture, C and assembly language programming and debugging, platform emulation, Linux-based workflow automation, SystemVerilog, logic synthesis and validation, pipelined microarchitecture, privileged operations, bus interfaces and peripherals, memory systems, branch prediction, computer arithmetic, benchmarking, operating systems, and silicon implementation. Class project involving design and optimization.
 
-Taught by Professor David Harris, SP23.
+Taught by Professor David Harris, SP23. I helped write the textbook for this class.
 
 # Engr 80: Experimental Engineering
 
