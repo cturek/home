@@ -20,13 +20,13 @@ Hi! I'm Cedar. Currently, I'm a Masters of Applied Science student in the Electr
 
 ## Work Experience
 
-I am working with Guy Lemieux at UBC, researching optimization of deep-learning algorithms in FPGAs. 
+I am working with Guy Lemieux and Frank Wood at UBC, researching novel techniques in hardware acceleration for machine learning. 
 
-Previously, I did research with [Professor David Harris](http://pages.hmc.edu/harris/) as a [Clay-Wolkin fellow](https://www.hmc.edu/engineering/engineering-fellowships/clay-wolkin-fellowship/). We designed a RISC-V pipelined processor, and the team is putting the finishing touches on a textbook for teaching courses on the architecture. I coauthored a manuscript on the division and square root module.
+Previously, I did research with [Professor David Harris](http://pages.hmc.edu/harris/) as a [Clay-Wolkin fellow](https://www.hmc.edu/engineering/engineering-fellowships/clay-wolkin-fellowship/). We designed a [RISC-V pipelined processor](https://github.com/openhwgroup/cvw), and the team is putting the finishing touches on a textbook for teaching courses on the architecture. I coauthored a couple manuscripts on the division and square root module.
 
 I also [graded and tutored for various classes](https://cturek.github.io/home/classes.html) at HMC.
 
-In the past summers, I worked as an intern at [Volpe Pathways](https://www.volpe.dot.gov/about-us/careers/student-and-recent-graduate-opportunities), as a counselor at [MathPath](https://www.mathpath.org/), and as a [backgammon researcher under Professor Arthur Benjamin](https://www.hmc.edu/about/2021/01/11/art-benjamin-is-backgammon-champ/).
+In the past summers, I worked as a junior faculty at [HCSSiM](https://hcssim.org/), an intern at [Volpe Pathways](https://www.volpe.dot.gov/about-us/careers/student-and-recent-graduate-opportunities), a counselor at [MathPath](https://www.mathpath.org/), and a [backgammon researcher under Professor Arthur Benjamin](https://www.hmc.edu/about/2021/01/11/art-benjamin-is-backgammon-champ/).
 
 ## Projects
 
