@@ -1,3 +1,3 @@
-# Cedar's homepage
+# Cedar's Homepage
 
 This is my website.
