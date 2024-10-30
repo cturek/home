@@ -16,13 +16,13 @@ content="This is the homepage of Cedar Turek.">
 
 ## About Me
 
-Hi! I'm Cedar. Currently, I'm a Masters of Applied Science student in the Electrical and Computer Engineering department at the University of British Columbia. Before that, I attended Harvey Mudd College, where I obtained a double major in Mathematics and Engineering. I have a [resume](https://cturek.github.io/home/resume.html) and a [CV](https://cturek.github.io/home/cv.html).
+Hi! I'm Cedar. Currently, I'm a Masters of Applied Science student in the Electrical and Computer Engineering department at the University of British Columbia. Before that, I attended Harvey Mudd College, where I got a double major in Mathematics and Engineering. I have a [resume](https://cturek.github.io/home/resume.html) and a [CV](https://cturek.github.io/home/cv.html).
 
 ## Work Experience
 
-I am working with Guy Lemieux and Frank Wood at UBC, researching novel techniques in hardware acceleration for machine learning. 
+I am working with [Guy Lemieux](https://people.ece.ubc.ca/~lemieux/) and [Frank Wood](https://www.cs.ubc.ca/~fwood/) at UBC, researching novel techniques in analog hardware acceleration for machine learning.
 
-Previously, I did research with [Professor David Harris](http://pages.hmc.edu/harris/) as a [Clay-Wolkin fellow](https://www.hmc.edu/engineering/engineering-fellowships/clay-wolkin-fellowship/). We designed a [RISC-V pipelined processor](https://github.com/openhwgroup/cvw), and the team is putting the finishing touches on a textbook for teaching courses on the architecture. I coauthored a couple manuscripts on the division and square root module.
+Previously, I did research with [David Harris](http://pages.hmc.edu/harris/) as a [Clay-Wolkin fellow](https://www.hmc.edu/engineering/engineering-fellowships/clay-wolkin-fellowship/). We designed a [RISC-V pipelined processor](https://github.com/openhwgroup/cvw), and the team is putting the finishing touches on a textbook for teaching courses on the architecture. I coauthored a couple manuscripts on the division and square root module.
 
 I also [graded and tutored for various classes](https://cturek.github.io/home/classes.html) at HMC.
 
@@ -49,14 +49,16 @@ My junior engineering capstone was a clinic with Toyota. We researched, designed
 
 ## Publications
 
-I contributed to the Floating-Point Chapter in *RISC-V System-on-Chip Design* by Harris, Stine, Thompson, and Harris, to be published by Elsevier, 2024.
+I contributed to the Floating-Point Chapter in *RISC-V System-on-Chip Design* by David Money Harris, James Stine, Rose Thompson, and Sarah L. Harris, to be published by Elsevier, 2024.
 
-I co-wrote *Digit Selection for Recurrence Division and Square Root* by Harris, Stine, Nannarelli, Ercegovac, Parry, and Turek, published in IEEE Transactions on Computers (2023) doi: 10.1109/TC.2023.3305760.
+I co-wrote *Digit Selection for Recurrence Division and Square Root* with David Money Harris, James Stine, Alberto Nannarelli, Miloš Ercegovac, and Katherine Parry, published in IEEE Transactions on Computers (2023) doi: 10.1109/TC.2023.3305760.
 
-I co-wrote *Analyzing Barium Titanate TiO2 Surface Interactions with tert-Butylphosphonic Acid Using Density Functional Theory* by Marvin, Nicholson, Turek, Iwasa, Pangrekar, Fowler, Van Ginhoven, and Monson, published in [MRS Communications](https://doi.org/10.1557/s43579-023-00425-3) (2023). 
+I co-wrote *Analyzing Barium Titanate TiO2 Surface Interactions with tert-Butylphosphonic Acid Using Density Functional Theory* with Jessica Marvin, James Nicholson, Erina Iwasa, Nilay Pangrekar, Whitney Fowler, Renee Van Ginhoven, and Todd Monson, published in [MRS Communications](https://doi.org/10.1557/s43579-023-00425-3) (2023). 
+
+I co-wrote *Shared Recurrence Floating-Point Divide/Sqrt and Integer Divide/Remainder with Early Termination* with Kevin Kim, Katherine Parry, David Money Harris, Ale Maiuolo, Rose Thompson, and James Stine, to be published this year in IEEE Transactions on Computers.
 
 ## Hobbies
 
 I play the violin a lot. There are some old videos on my [dad's youtube channel](https://www.youtube.com/@steamboatdad). I also enjoy playing hockey, golf, and tennis, skiing in the winter, and swimming. Otherwise, you will probably find me cooking or playing video games. 
 
-## [Contact Information](https://cturek.github.io/home/contact.html)
+## [Contact Information: Click Here!](https://cturek.github.io/home/contact.html)
