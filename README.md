@@ -1,3 +1,3 @@
 # Cedar's Homepage
 
-This is my website.
+This is a website about me.
