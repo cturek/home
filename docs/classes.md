@@ -7,6 +7,10 @@ This is a list of all the classes I've been involved with.
 
 ---
 
+<div style="text-align: center">
+  <img src = "./assets/img/mister.JPG" alt = "teach" width = "400" />
+</div>
+
 ## Tutored/Graded/Proctored Classes
 
 | System-on-Chip Deisgn | Experimental Engineering | Graph Theory |
