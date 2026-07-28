@@ -16,7 +16,7 @@ content="This is the homepage of Cedar Turek.">
 
 ## About Me
 
-Hi! I'm Cedar. Currently, I'm a Masters of Applied Science student in the Electrical and Computer Engineering department at the University of British Columbia. Before that, I attended Harvey Mudd College, where I got a double major in Mathematics and Engineering. I have a [resume](https://cturek.github.io/home/resume.html) and a [CV](https://cturek.github.io/home/cv.html).
+Hi! I'm Cedar. Currently, I'm a PhD student in the Computer Science department at the University of British Columbia (Vancouver). I previously got my Master's of Applied Science in Electrical and Computer Engineering at UBC. Before that, I attended Harvey Mudd College, where I double majored in Mathematics and Engineering. I have a [resume](https://cturek.github.io/home/resume.html) and a [CV](https://cturek.github.io/home/cv.html).
 
 ## Work Experience
 
