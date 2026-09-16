@@ -7,7 +7,6 @@ theme: minima
 header-pages:
   - about.html
 
-
 # Github Pages settings that cannot be changed
 # lsi: false
 # safe: true
